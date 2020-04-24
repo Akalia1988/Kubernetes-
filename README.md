@@ -9,3 +9,6 @@ Secrets/Demo:secrets
 Controllers (Replication controller/demo, replicaSet/demo, Deployments/demo, DaemonSet/demo, Jobs/demo
 Services ( Nodeport Seervice/demo, Loadbalancer Service/demo, CLusterIP service/demo)
 Storage(emptyDir/Demo, HostPath/demo, GCE Persistent Disk/Demo, Persistent Volumes & Volume claims(PV & PVC), Static volume provisioning/demo, Dynamic volume Provisioning/demo, 
+
+
+Certified Kubernetes Administrator ( in process) 
